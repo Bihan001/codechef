@@ -1,0 +1,1 @@
+{"name":"Local: Mod_Equality","url":"/home/bihan/codes/cp-dsa-questions/codechef/Mod_Equality.cpp","tests":[{"id":1627489191587,"input":"2\n3\n2 1 3\n3\n1 1 3","output":"3\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/bihan/codes/cp-dsa-questions/codechef/Mod_Equality.cpp","group":"local","local":true}

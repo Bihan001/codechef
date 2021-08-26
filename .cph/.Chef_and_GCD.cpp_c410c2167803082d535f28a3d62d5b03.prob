@@ -1,0 +1,1 @@
+{"name":"Local: Chef_and_GCD","url":"/home/bihan/codes/cp-dsa-questions/codechef/Chef_and_GCD.cpp","tests":[{"id":1627483064383,"input":"3\n4 16\n5 19\n4 55","output":"0\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/bihan/codes/cp-dsa-questions/codechef/Chef_and_GCD.cpp","group":"local","local":true}
