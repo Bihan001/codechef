@@ -3,5 +3,9 @@
     "iomanip": "cpp",
     "ostream": "cpp",
     "iostream": "cpp"
-  }
+  },
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+  "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+  "cph.general.defaultLanguage": "cpp",
+  "cph.general.autoShowJudge": false
 }
